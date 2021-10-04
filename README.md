@@ -1,1 +1,3 @@
-# homography_gaussian_process
+# Homography Gaussian Process
+
+Modeling optical distortion using a GP defined on the special linear algebra, `sl(3)`.
